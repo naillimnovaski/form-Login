@@ -24,7 +24,7 @@
 ## Tecnologias Utilizadas 🖥️
 - Visual Studio Code
 - CSS3
-- HTML 5
+- HTML5
 - Github
 - Boot Strap
 - Git
